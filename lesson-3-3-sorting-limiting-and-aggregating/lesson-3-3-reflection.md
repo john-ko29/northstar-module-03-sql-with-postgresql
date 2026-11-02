@@ -1,0 +1,1 @@
+Based on the data given, there are 2,425,931 entries, but number of customers with distinct emails are 1,847,234. The number of people who don't have emails or created another account probably due to forgetting password or such is 578,697

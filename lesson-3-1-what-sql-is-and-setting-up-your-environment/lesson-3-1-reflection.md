@@ -1,0 +1,1 @@
+SQL is extremly faster than Excel in finding specific data. More useful in finding data related to the questions that a Data Analyst might ask. 

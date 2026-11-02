@@ -1,0 +1,1 @@
+The DATE_TRUNC surprised me the most of all the differences in dialect. Why would the placement of the syntax be different? I feel like why I use this function in BigQuery, I would make mistakes all the time in using this function.

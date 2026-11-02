@@ -1,0 +1,1 @@
+I belive the concept I would struggle the most in would be REGEX. Not only does the course not provide practice samples in Guide Example and Practice, it has a unfamiliar format compared to the rest of SQL. the only way to become proficient in this would be practice this outside until it becomes natural.

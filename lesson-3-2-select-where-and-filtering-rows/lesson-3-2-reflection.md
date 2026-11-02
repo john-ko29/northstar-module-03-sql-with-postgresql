@@ -1,0 +1,1 @@
+I remember to use "IS NOT NULL" for Query 2. I remember it because I tried to remember that Null is special and is not like a boolean. Instead needs "IS" like a status. 

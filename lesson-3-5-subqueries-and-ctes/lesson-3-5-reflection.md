@@ -1,0 +1,1 @@
+The that uses CTEs that would ugly if it had to be written in subqueries would be query 6. Not only did it have the most CTEs, but you had to filter the loyalty members, find their QTE orders and then find the total for each loyalty member. So much to calculate and variables to keep track of that it would be hard to find everything if you were to come back a week later or so on. 

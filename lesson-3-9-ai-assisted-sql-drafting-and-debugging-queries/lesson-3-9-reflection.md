@@ -1,0 +1,2 @@
+The failure mode I am most likely to miss is Semantic misalignment. The other have errors that may cause a crash such as missing column, divided by zero, or non-existing functions.
+I would have to remember my question by putting as comment as above and matching the results to see what I am looking for from the query is answered from the result.

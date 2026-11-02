@@ -1,0 +1,1 @@
+I believe ROW_NUMBER or RANK() would be the most important window function partner. It will help find top N for products in each section. This will help us find the be data quickly and accurately "best in region or state".
